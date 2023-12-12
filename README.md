@@ -1,7 +1,7 @@
 # Simple U-net Aerial imagery building detection
 
 
-## Setup
+## Setup:
 
 Install dependencies:
 ```
@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 You can use pretrained weights, include the file in the directory  ```weights/```.
 
-## Inference
+## Inference:
 
 If you want to use your own images, use the ```images``` folder and then:
 ```
